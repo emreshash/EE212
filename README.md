@@ -1,5 +1,5 @@
 Giriş
-Bu proje, su seviyesini izleyen ve gerektiğinde servo motorlar yardımıyla su akışını kontrol eden bir akıllı baraj sistemi tasarlamak için gerçekleştirilmiştir. Proje, bir Freescale/NXP KL25Z mikrodenetleyici kartı kullanılarak C dili ile yazılmıştır.
+Bu proje, su seviyesini izleyen ve gerektiğinde servo motorlar yardımıyla su akışını kontrol eden bir akıllı baraj sistemi tasarlamak için gerçekleştirilmiştir. Proje, bir Freescale/NXP KL25Z mikrodenetleyici kartı kullanılarak C dili ile yazılmıştır. Demonstrasyon için video : https://youtu.be/TiHcIBgEbbg?si=0K-JfTMD-XHdTjLB
 
 Kullanılan Malzemeler
 Freescale/NXP KL25Z Mikrodenetleyici Kartı: Projenin ana kontrol birimidir. ARM Cortex-M0+ çekirdeğine sahip olan bu mikrodenetleyici, düşük güç tüketimi ve yüksek performans sunar.
